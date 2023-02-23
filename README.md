@@ -28,9 +28,9 @@ func main() {
   
   // You can chunk slices of custom types
   chunks.Chunk([]Test{
-			{},
-			{},
-			{},
-		}, 1)
+    {},
+    {},
+    {},
+  }, 1)
 }
 ```
